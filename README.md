@@ -12,7 +12,7 @@
 ## Deliverable 1: Scrape titles and preview text from Mars news articles.
 1. Used Broswer to automate web browser.
 2. Used BeautifulSoup to conduct a scrapping for the required list of dictionaries.
-3.Used json to store the output of the list of dictionaries to a json format output file.
+3. Used json to store the output of the list of dictionaries to a json format output file.
 ## Deliverable 2: Scrape and analyse Mars weather data, which exists in a table.
 1. Used Broswer to automate web browser.
 2. Used BeautifulSoup to conduct a scrapping for the required table.
